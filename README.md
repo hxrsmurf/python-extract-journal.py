@@ -3,7 +3,7 @@ I have a journal written in Google Docs. The plan is to migrate this from Google
 
 1. Go to Google Docs
 2. Download as `Plain Text`
-3. Open in Note++
+3. Open in Notepad++
 4. From the `Encoding` menu, select `Convert to UTF-8-BOM via`
 5. Save
 6. Run this Python script
